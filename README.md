@@ -7,4 +7,4 @@ Versão do comando do Oracle para utilização no SQL Server. Adicione um caract
 
 ## ProperCase
 
-Modifique um texto em caixa alta para uma versão com caracter maiúsculo no inicio do texto e o restante passe para minúsculo.
+Modifique um texto em caixa alta para uma versão com caracter maiúsculo no inicio do texto e o restante passe para minúsculo. As preposições da, de, do são ignoradas e não alteradas para caixa alta nestes casos.
